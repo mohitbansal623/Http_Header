@@ -10,7 +10,7 @@ HTTP header fields provide required information about the request or response, o
   > In .css file, style is defined for the components designed in .html file.
   > In .js file, processing of the url takes place.
 
-The url enetered in a textfield is processed using AJAX to display HTTP header information about that particular website.
+The url entered in a textfield is processed using AJAX to display HTTP header information about that particular website.
 
 ### Note:
 Use http://www.wix.com for right now to display the header information.
