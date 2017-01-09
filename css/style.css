@@ -1,0 +1,27 @@
+.header, .footer {
+  color: white;
+  background-color: black;
+  text-align: center;
+  padding: 20px;
+  opacity: 0.8;	
+}
+
+.url {
+  padding: 10px;
+  font-weight: bold;
+  font-size: 17px;
+  width: 320px;
+  margin-left: 35%;
+  font-family: Courier;
+}
+
+.submit {
+  padding: 10px;
+  width: 90px;
+  height: 38px;
+  margin-left: 8px;	
+}
+
+/*.footer {
+  margin-top:32.5%;
+}*/
