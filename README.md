@@ -13,7 +13,7 @@ HTTP header fields provide required information about the request or response, o
 The url entered in a textfield is processed using AJAX to display HTTP header information about that particular website.
 
 ### Note:
-Use http://www.wix.com for right now to display the header information.
+Use http://www.wix.com to display the header information.
 
 
 
